@@ -46,7 +46,7 @@ Como se puede ver la tabla está formada por dos columnas llamadas  **nombre** y
 
 Por tanto, cada usuario ocupará un registro de esta tabla, con su respectivo nombre y clave.
 
-Para comprobar que la tabla **usuarios** se ha creado correctamente ejecutamos el comando \dt que lista las tablas en la base de datos actual.
+Para comprobar que la tabla **usuarios** se ha creado correctamente ejecutamos el comando `\dt` que lista las tablas en la base de datos actual.
 
 ![Listar tablas](Imágenes/8.png)
 
