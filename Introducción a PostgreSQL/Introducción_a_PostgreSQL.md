@@ -61,6 +61,6 @@ Ahora para ver el contenido de la tabla con los usuarios que acabamos de añadir
 
 Por último, para salir de la base de datos **pract1** empleamos el comando `\q`, a su vez para salir del sistema gestor PostgreSQL ejecutamos `exit`.
 
-## 4. Conclusión
+# 4. Conclusión
 
 En conclusión, esta práctica nos ha permitido conocer y empezar a utilizar el sistema gestor de bases de datos PostgreSQL, ya que se ha realizado su instalación y se ha trabajado con una base de datos de prueba. El uso de este sistema será de gran importancia para el resto de la asignatura y nos aportará mayores conocimientos acerca de la administración y diseño de las bases de datos.
