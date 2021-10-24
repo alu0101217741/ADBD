@@ -38,7 +38,7 @@ Cuando ya se dispone de **pract1**, es necesario crear las tablas que permitan a
 
 ![Acceso a bases de datos con pract1](Imágenes/6.png)
 
-Ahora procedemos a crear la tabla **usuarios** de la siguiente manera.
+Ahora procedemos a crear la tabla **usuarios** como se muestra a continuación.
 
 ![Crear tabla usuarios](Imágenes/7.png)
 
@@ -63,4 +63,4 @@ Por último, para salir de la base de datos **pract1** empleamos el comando `\q`
 
 ## 4. Conclusión
 
-
+En conclusión, esta práctica nos ha permitido conocer y empezar a utilizar el sistema gestor de bases de datos PostgreSQL, ya que se ha realizado su instalación y se ha trabajado con una base de datos de prueba. El uso de este sistema será de gran importancia para el resto de la asignatura y nos aportará mayores conocimientos acerca de la administración y diseño de las bases de datos.
