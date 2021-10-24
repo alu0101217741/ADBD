@@ -55,7 +55,7 @@ A continuación,  vamos a introducir 3 usuarios en la tabla como se muestra a co
 
 ![Insertar en la tabla](Imágenes/9.png)
 
-Ahora para ver el contenido de la tabla con los usuarios que acabamos de añadir se emplea la sentencia `SQL SELECT * FROM usuarios`.
+Ahora para ver el contenido de la tabla con los usuarios que acabamos de añadir se emplea la sentencia SQL `SELECT * FROM usuarios`.
 
 ![Mostrar tabla usuarios](Imágenes/10.png)
 
