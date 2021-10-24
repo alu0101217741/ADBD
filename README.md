@@ -2,7 +2,7 @@
 ### Alberto Mendoza Rodríguez - [alu0101217741@ull.edu.es](alu0101217741@ull.edu.es)
 
 
-Repositorio creado para las prácticas individuales de la asignatura **Administración y Diseño de Bases de Datos**, que son las siguientes:
+Repositorio creado para las prácticas individuales de la asignatura **Administración y Diseño de Base de Datos**, que son las siguientes:
 
 * [Introducción a PostgreSQL.](https://github.com/alu0101217741/ADBD/blob/main/Introducci%C3%B3n%20a%20PostgreSQL/Introducci%C3%B3n_a_PostgreSQL.md)
 
